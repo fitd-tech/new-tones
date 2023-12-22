@@ -1,0 +1,36 @@
+- Tailwind
+
+{ 'night': { DEFAULT: '#121614', 100: '#040404', 200: '#070908', 300: '#0b0d0c', 400: '#0f1210', 500: '#121614', 600: '#3d4a43', 700: '#677e72', 800: '#98aba1', 900: '#cbd5d0' }, 'raisin_black': { DEFAULT: '#1b1924', 100: '#050507', 200: '#0b0a0e', 300: '#100f16', 400: '#16141d', 500: '#1b1924', 600: '#433e59', 700: '#6b638e', 800: '#9b95b5', 900: '#cdcada' }, 'non_photo_blue': { DEFAULT: '#b1e5f2', 100: '#0c3c48', 200: '#18778f', 300: '#24b3d7', 400: '#69cde6', 500: '#b1e5f2', 600: '#c0eaf4', 700: '#d0eff7', 800: '#e0f4fa', 900: '#effafc' }, 'orange_(web)': { DEFAULT: '#faa300', 100: '#322000', 200: '#644100', 300: '#966100', 400: '#c88200', 500: '#faa300', 600: '#ffb62f', 700: '#ffc863', 800: '#ffdb97', 900: '#ffedcb' }, 'fulvous': { DEFAULT: '#e57c04', 100: '#2e1901', 200: '#5c3201', 300: '#8b4b02', 400: '#b96403', 500: '#e57c04', 600: '#fc9826', 700: '#fdb25c', 800: '#fdcb92', 900: '#fee5c9' }, 'orange_(pantone)': { DEFAULT: '#ff6201', 100: '#331400', 200: '#662700', 300: '#993b00', 400: '#cc4e00', 500: '#ff6201', 600: '#ff8133', 700: '#ffa166', 800: '#ffc099', 900: '#ffe0cc' }, 'coquelicot': { DEFAULT: '#f63e02', 100: '#310d00', 200: '#631901', 300: '#942601', 400: '#c63302', 500: '#f63e02', 600: '#fd6431', 700: '#fd8b65', 800: '#feb198', 900: '#fed8cc' }, 'amber': { DEFAULT: '#f3b700', 100: '#312500', 200: '#624900', 300: '#936e00', 400: '#c49300', 500: '#f3b700', 600: '#ffca2b', 700: '#ffd760', 800: '#ffe495', 900: '#fff2ca' } }
+
+- CSV
+
+121614,1b1924,b1e5f2,faa300,e57c04,ff6201,f63e02,f3b700
+
+- With #
+
+#121614, #1b1924, #b1e5f2, #faa300, #e57c04, #ff6201, #f63e02, #f3b700
+
+- Array
+
+["121614","1b1924","b1e5f2","faa300","e57c04","ff6201","f63e02","f3b700"]
+
+- Object
+
+{"Night":"121614","Raisin black":"1b1924","Non Photo blue":"b1e5f2","Orange (web)":"faa300","Fulvous":"e57c04","Orange (Pantone)":"ff6201","Coquelicot":"f63e02","Amber":"f3b700"}
+
+- Extended Array
+
+[{"name":"Night","hex":"121614","rgb":[18,22,20],"cmyk":[18,0,9,91],"hsb":[150,18,9],"hsl":[150,10,8],"lab":[7,-2,1]},{"name":"Raisin black","hex":"1b1924","rgb":[27,25,36],"cmyk":[25,31,0,86],"hsb":[251,31,14],"hsl":[251,18,12],"lab":[9,4,-7]},{"name":"Non Photo blue","hex":"b1e5f2","rgb":[177,229,242],"cmyk":[27,5,0,5],"hsb":[192,27,95],"hsl":[192,71,82],"lab":[88,-14,-12]},{"name":"Orange (web)","hex":"faa300","rgb":[250,163,0],"cmyk":[0,35,100,2],"hsb":[39,100,98],"hsl":[39,100,49],"lab":[74,23,78]},{"name":"Fulvous","hex":"e57c04","rgb":[229,124,4],"cmyk":[0,46,98,10],"hsb":[32,98,90],"hsl":[32,97,46],"lab":[63,35,69]},{"name":"Orange (Pantone)","hex":"ff6201","rgb":[255,98,1],"cmyk":[0,62,100,0],"hsb":[23,100,100],"hsl":[23,100,50],"lab":[62,57,71]},{"name":"Coquelicot","hex":"f63e02","rgb":[246,62,2],"cmyk":[0,75,99,4],"hsb":[15,99,96],"hsl":[15,98,49],"lab":[55,67,66]},{"name":"Amber","hex":"f3b700","rgb":[243,183,0],"cmyk":[0,25,100,5],"hsb":[45,100,95],"hsl":[45,100,48],"lab":[78,9,80]}]
+
+- XML
+
+<palette>
+  <color name="Night" hex="121614" r="18" g="22" b="20" />
+  <color name="Raisin black" hex="1b1924" r="27" g="25" b="36" />
+  <color name="Non Photo blue" hex="b1e5f2" r="177" g="229" b="242" />
+  <color name="Orange (web)" hex="faa300" r="250" g="163" b="0" />
+  <color name="Fulvous" hex="e57c04" r="229" g="124" b="4" />
+  <color name="Orange (Pantone)" hex="ff6201" r="255" g="98" b="1" />
+  <color name="Coquelicot" hex="f63e02" r="246" g="62" b="2" />
+  <color name="Amber" hex="f3b700" r="243" g="183" b="0" />
+</palette>

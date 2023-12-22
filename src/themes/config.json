@@ -1,0 +1,320 @@
+{
+  "selectedTheme": "7",
+  "selectedColorMap": "1",
+  "colorMaps": {
+    "1": {
+      "colors": {
+        "1": [
+          "editor.background",
+          "sideBarSectionHeader.background",
+          "editorGroupHeader.tabsBackground",
+          "list.activeSelectionBackground",
+          "activityBar.background"
+        ],
+        "2": [
+          "sideBar.background",
+          "tab.inactiveBackground",
+          "list.inactiveSelectionBackground",
+          "titleBar.activeBackground"
+        ],
+        "3": [
+        ],
+        "4": [
+        ],
+        "5": [
+        ],
+        "6": [
+        ],
+        "7": [
+        ],
+        "8": [
+        ]
+      },
+      "tokenColors": {
+        "1": {
+          "foreground": [
+          ]
+        },
+        "2": {
+          "foreground": [
+          ]
+        },
+        "3": {
+          "foreground": [
+            "comment",
+            "keyword.operator",
+            "punctuation.separator",
+            "punctuation.definition.tag"
+          ]
+        },
+        "4": {
+          "foreground": [
+            "keyword.control",
+            "storage"
+          ]
+        },
+        "5": {
+          "foreground": [
+            "entity.name.function",
+            "entity.name.tag",
+            "meta.object"
+          ]
+        },
+        "6": {
+          "foreground": [
+            "string",
+            "meta.jsx.children"
+          ]
+        },
+        "7": {
+          "foreground": [
+            "variable",
+            "constant.numeric",
+            "constant.language.boolean",
+            "entity.other.attribute-name"
+          ]
+        },
+        "8": {
+          "foreground": [
+          ]
+        }
+      }
+    }
+  },
+  "themes": {
+    "example": {
+      "palette": {
+        "1": "#070F17",
+        "2": "#050B12",
+        "3": "#8FB8ED",
+        "4": "#FF87AB",
+        "5": "#FF47DA",
+        "6": "#3590F3",
+        "7": "#62BFED",
+        "8": ""
+      },
+      "colors": {
+        "1": {
+          "elements": [
+            "editor.background",
+            "sideBarSectionHeader.background",
+            "editorGroupHeader.tabsBackground",
+            "list.activeSelectionBackground",
+            "activityBar.background"
+          ],
+          "tokens": {
+          }
+        },
+        "2": {
+          "elements": [
+            "sideBar.background",
+            "tab.inactiveBackground",
+            "list.inactiveSelectionBackground",
+            "titleBar.activeBackground"
+          ],
+          "tokens": {
+          }
+        },
+        "3": {
+          "elements": [
+          ],
+          "tokens": {
+            "foreground": [
+              "comment",
+              "keyword.operator",
+              "punctuation.separator",
+              "punctuation.definition.tag"
+            ],
+            "background": [
+              "storage"
+            ]
+          }
+        },
+        "4": {
+          "elements": [
+          ],
+          "tokens": {
+            "foreground": [
+              "keyword.control",
+              "storage"
+    
+            ]
+          }
+        },
+        "5": {
+          "elements": [
+          ],
+          "tokens": {
+            "foreground": [
+              "variable",
+              "constant.numeric",
+              "constant.language.boolean",
+              "entity.other.attribute-name"
+            ]
+          }
+        },
+        "6": {
+          "elements": [
+          ],
+          "tokens": {
+            "foreground": [
+              "entity.name.function",
+              "entity.name.tag",
+              "meta.object"
+    
+            ]
+          }
+        },
+        "7": {
+          "elements": [
+          ],
+          "tokens": {
+            "foreground": [
+              "string",
+              "meta.jsx.children"
+            ]
+          }
+        },
+        "8": {
+          "elements": [
+          ],
+          "tokens": {
+             "foreground": [
+            ]
+          }
+        }
+      },
+      "fontStyles": {
+        "italic": [
+          "comment"
+        ]
+      }
+    },
+    "1": {
+      "palette": {
+        "1": "#070F17",
+        "2": "#050B12",
+        "3": "#8FB8ED",
+        "4": "#FF87AB",
+        "5": "#FF47DA",
+        "6": "#3590F3",
+        "7": "#62BFED",
+        "8": "#00FF00"
+      },
+      "colors": {},
+      "fontStyles": {
+        "italic": [
+          "comment"
+        ]
+      }
+    },
+    "2": {
+      "palette": {
+        "1": "#160E1B",
+        "2": "#0B070D",
+        "3": "#ECE5F0",
+        "4": "#028090",
+        "5": "#02C39A",
+        "6": "#A491D3",
+        "7": "#F5F2B8",
+        "8": ""
+      },
+      "colors": {},
+      "fontStyles": {
+        "italic": [
+          "comment"
+        ]
+      }
+    },
+    "3": {
+      "palette": {
+        "1": "#160E1B",
+        "2": "#0B070D",
+        "3": "#ECE5F0",
+        "4": "#028090",
+        "5": "#02C39A",
+        "6": "#A491D3",
+        "7": "#F5F2B8",
+        "8": ""
+      },
+      "colors": {},
+      "fontStyles": {
+        "italic": [
+          "comment"
+        ]
+      }
+    },
+    "4": {
+      "palette": {
+        "1": "#0E0C1D",
+        "2": "#15122B",
+        "3": "#EECFD4",
+        "4": "#EFB9CB",
+        "5": "#E6ADEC",
+        "6": "#C287E8",
+        "7": "#5DBEFE",
+        "8": ""
+      },
+      "colors": {},
+      "fontStyles": {
+        "italic": [
+          "comment"
+        ]
+      }
+    },
+    "5": {
+      "palette": {
+        "1": "#191919",
+        "2": "#021113",
+        "3": "#f1e8b8",
+        "4": "#f9e784",
+        "5": "#e58f65",
+        "6": "#d05353",
+        "7": "#0075f2",
+        "8": "#30c5ff"
+      },
+      "colors": {},
+      "fontStyles": {
+        "italic": [
+          "comment"
+        ]
+      }
+    },
+    "6": {
+      "palette": {
+        "1": "#06070e",
+        "2": "#060723",
+        "3": "#b14aed",
+        "4": "#c874d9",
+        "5": "#e1bbc9",
+        "6": "#95b2b0",
+        "7": "#c6ebbe",
+        "8": "#ffffff"
+      },
+      "colors": {},
+      "fontStyles": {
+        "italic": [
+          "comment"
+        ]
+      }
+    },
+    "7": {
+      "palette": {
+        "1": "#121614",
+        "2": "#1b1924",
+        "3": "#2EB9DC",
+        "4": "#faa300",
+        "5": "#e57c04",
+        "6": "#ff6201",
+        "7": "#f63e02",
+        "8": "#f3b700"
+      },
+      "colors": {},
+      "fontStyles": {
+        "italic": [
+          "comment"
+        ]
+      }
+    }
+  }
+}

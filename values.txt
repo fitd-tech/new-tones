@@ -1,0 +1,27 @@
+colors.editor.background
+colors.sideBar.background
+
+1
+tokenColors -> comment
+tokenColors -> keyword.operator
+tokenColors -> punctuation.separator
+tokenColors -> punctuation.definition.tag
+
+2
+tokenColors -> keyword.control
+tokenColors -> storage
+
+3
+tokenColors -> variable
+tokenColors -> constant.numeric
+tokenColors -> entity.other.attribute-name
+tokenColors -> constant.language.boolean
+
+4
+tokenColors -> entity.name.function
+tokenColors -> entity.name.tag
+tokenColors -> meta.object
+
+5
+tokenColors -> string
+tokenColors -> meta.jsx.children

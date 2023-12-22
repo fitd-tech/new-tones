@@ -1,0 +1,108 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#121614",
+    "sideBarSectionHeader.background": "#121614",
+    "editorGroupHeader.tabsBackground": "#121614",
+    "list.activeSelectionBackground": "#121614",
+    "activityBar.background": "#121614",
+    "sideBar.background": "#1b1924",
+    "tab.inactiveBackground": "#1b1924",
+    "list.inactiveSelectionBackground": "#1b1924",
+    "titleBar.activeBackground": "#1b1924"
+  },
+  "tokenColors": [
+    {
+      "scope": "comment",
+      "settings": {
+        "foreground": "#2EB9DC",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": "keyword.operator",
+      "settings": {
+        "foreground": "#2EB9DC"
+      }
+    },
+    {
+      "scope": "punctuation.separator",
+      "settings": {
+        "foreground": "#2EB9DC"
+      }
+    },
+    {
+      "scope": "punctuation.definition.tag",
+      "settings": {
+        "foreground": "#2EB9DC"
+      }
+    },
+    {
+      "scope": "keyword.control",
+      "settings": {
+        "foreground": "#faa300"
+      }
+    },
+    {
+      "scope": "storage",
+      "settings": {
+        "foreground": "#faa300"
+      }
+    },
+    {
+      "scope": "entity.name.function",
+      "settings": {
+        "foreground": "#e57c04"
+      }
+    },
+    {
+      "scope": "entity.name.tag",
+      "settings": {
+        "foreground": "#e57c04"
+      }
+    },
+    {
+      "scope": "meta.object",
+      "settings": {
+        "foreground": "#e57c04"
+      }
+    },
+    {
+      "scope": "string",
+      "settings": {
+        "foreground": "#ff6201"
+      }
+    },
+    {
+      "scope": "meta.jsx.children",
+      "settings": {
+        "foreground": "#ff6201"
+      }
+    },
+    {
+      "scope": "variable",
+      "settings": {
+        "foreground": "#f63e02"
+      }
+    },
+    {
+      "scope": "constant.numeric",
+      "settings": {
+        "foreground": "#f63e02"
+      }
+    },
+    {
+      "scope": "constant.language.boolean",
+      "settings": {
+        "foreground": "#f63e02"
+      }
+    },
+    {
+      "scope": "entity.other.attribute-name",
+      "settings": {
+        "foreground": "#f63e02"
+      }
+    }
+  ]
+}

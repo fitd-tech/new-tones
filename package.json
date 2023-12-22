@@ -1,0 +1,27 @@
+{
+  "name": "new-tones",
+  "displayName": "New Tones",
+  "description": "Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "New Tones",
+        "uiTheme": "vs-dark",
+        "path": "./themes/new-tones-color-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "watch": "node src/index.mjs"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
